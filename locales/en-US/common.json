@@ -1,0 +1,37 @@
+{
+    "error": {
+        "dmerror": "You cannot use this command via DM.",
+        "modal_ticket_error": "You already have a ticket. Please Wait.",
+        "ticket_not_found" : "No Such Ticket Found. It may have been deleted."
+    },
+    "succes": {
+        "ticket_close": "This Ticket was Closed Successfully.",
+        "user_ticket_deleted": "Your ticket was closed by an Admin",
+        "ticket_message_send" : "Ticket system successfully sent to your selected channel.",
+        "ticket_reply": "Ticket Answered Successfully."
+    },
+        "permission": {
+            "missing_permissions": "You need to have `{{permission}}` permissions to use this command.",
+            "missing_role": "You need to have the `{{role}}` role to use this command."
+        },
+        "modal": {
+            "name_label": "Name",
+            "name_placeholder": "Type your name. Example: Ahmet",
+            "last_name_label": "Last name",
+            "last_name_placeholder": "Enter your last name. Example: Yilmaz",
+            "email_label": "Your email",
+            "email_placeholder": "Enter your email address. Example: demo@gmail.com",
+            "reason_label": "Your Reason for Opening Ticker",
+            "reason_placeholder": "Please write your reason for opening a ticket in detail.",
+            "subject_label": "subject",
+            "subject_placeholder": "Write the subject. Example: System Not Working.",
+            "user_send_message": "Your ticket was created successfully. You will be assisted as soon as possible.",
+            "reply_title": "Ticket Answering System",
+            "reply_placeholder": "Write Your Ticket Reply",
+            "reply_label": "Your reply"
+        },
+        "selectmenu": {
+            "title": "Admin Ticket System",
+            "description": "Welcome to the Ticket System. Please Make a Selection."
+        }
+}

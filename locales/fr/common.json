@@ -1,0 +1,37 @@
+{
+    "error": {
+        "dmerror": "Vous ne pouvez pas utiliser cette commande via DM.",
+        "modal_ticket_error" : "Vous avez déjà un billet. Veuillez attendre.",
+        "ticket_not_found" : "Aucun ticket de ce type n'a été trouvé. Il a peut-être été supprimé."
+    },
+    "succes" : {
+        "ticket_close" : "Ce ticket a été fermé avec succès.",
+        "user_ticket_deleted" : "Votre ticket a été fermé par un Admin",
+        "ticket_message_send": "Ticket System Successfully Sent to the Channel You Selected.",
+        "ticket_reply" : "Ticket répondu avec succès."
+    },
+    "permission": {
+        "missing_permissions": "Vous devez avoir les permissions `{{permission}}` pour utiliser cette commande.",
+        "missing_role": "Vous devez avoir le rôle `{{role}}` pour utiliser cette commande."
+    },
+    "modal" : {
+        "name_label" : "Nom",
+        "name_placeholder" : "Tapez votre nom. Exemple : Ahmet",
+        "last_name_label" : "nom de famille",
+        "last_name_placeholder" : "Ecrivez votre nom de famille. Exemple : Yilmaz",
+        "email_label" : "Votre e-mail",
+        "email_placeholder" : "Entrez votre adresse e-mail. Exemple : demo@gmail.com",
+        "reason_label" : "Votre raison d'ouvrir le téléscripteur",
+        "reason_placeholder" : "Veuillez écrire en détail la raison pour laquelle vous ouvrez un ticket.",
+        "subject_label" : "sujet",
+        "subject_placeholder" : "Ecrivez le sujet. Exemple : Le système ne fonctionne pas.",
+        "user_send_message" : "Votre ticket a été créé avec succès. Vous serez assisté dès que possible.",
+        "reply_title" : "Ticket Answering System",
+        "reply_placeholder" : "Répondez à votre billet",
+        "reply_label" : "Votre réponse"
+    },
+    "selectmenu" : {
+        "title" : "Admin Ticket System",
+        "description" : "Bienvenue dans le système de tickets. Veuillez faire une sélection."
+    }
+}

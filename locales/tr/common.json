@@ -1,0 +1,37 @@
+{
+    "error": {
+        "dmerror": "Bu komutu DM üzerinden kullanamazsınız.",
+        "modal_ticket_error": "Zaten Bir Biletiniz Bulunmakta. Lütfen Bekleyiniz.",
+        "ticket_not_found" : "Böyle Bir Bilet Bulunamadı. Silinmiş Olabilir."
+    },
+    "succes": {
+        "ticket_close": "Bu Bilet Başarıyla Kapatıldı.",
+        "user_ticket_deleted": "Biletiniz Bir Admin Tarafından Kapatıldı",
+        "ticket_message_send": "Seçtiğiniz Kanala Başarıyla Bilet Sistemi Gönderildi.",
+        "ticket_reply": "Bilet Başarıyla Cevaplandırıldı."
+    },
+    "permission": {
+        "missing_permissions": "Bu komutu kullanmak için `{{permission}}` iznine sahip olmalısınız.",
+        "missing_role": "Bu komutu kullanmak için `{{role}}` rolüne sahip olmalısınız."
+    },
+    "modal": {
+        "name_label": "İsminiz",
+        "name_placeholder": "İsminizi yazınız. Örnek: Ahmet",
+        "last_name_label": "Soyisminiz",
+        "last_name_placeholder": "Soyisminizi yazınız. Örnek: Yılmaz",
+        "email_label": "E-postanız",
+        "email_placeholder": "E-posta adresinizi yazınız. Örnek: demo@gmail.com",
+        "reason_label": "Ticket Açma Sebebiniz",
+        "reason_placeholder": "Ticket Açma Sebebinizi Detaylıca Yazınız.",
+        "subject_label": "Konu",
+        "subject_placeholder": "Konuyu Yazınız. Örnek: Sistem Çalışmıyor.",
+        "user_send_message": "Biletiniz Başarıyla Oluşturuldu. En Yakın Zamanda Yardımcı Olunacaktır.",
+        "reply_title": "Bilet Cevaplama Sistemi",
+        "reply_placeholder": "Bilet Cevabınızı Yazınız.",
+        "reply_label": "Cevabınız"
+    },
+    "selectmenu": {
+        "title": "Admin Bilet Sistemi",
+        "description": "Bilet Sistemine Hoşgeldiniz. Lütfen Seçim Yapınız."
+    }
+}
