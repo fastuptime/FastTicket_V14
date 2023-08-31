@@ -3,8 +3,12 @@ FastTicket V14
 
 # ✨ Producers ✨
 
-[Egehan](https://github.com/egehan0250)<br>
-[Team FastUptime](https://github.com/TeamFastUptime)
+<a href="https://github.com/egehan0250" target="_blank" title="Egehan">
+  <img src="https://avatars.githubusercontent.com/u/79449566?s=48&v=4">
+</a>
+<a href="https://github.com/TeamFastUptime" target="_blank" title="Team FastUptime">
+  <img src="https://avatars.githubusercontent.com/u/122230930?s=48&v=4">
+</a>
 
 # 🛠️ Installation 🛠️
 
